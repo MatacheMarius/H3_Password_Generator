@@ -37,7 +37,7 @@ random and is displayed on the screen.
 * https://www.w3schools.com/js/js_array_methods.asp
 * https://www.w3schools.com/js/js_math.asp
 * https://www.w3schools.com/js/js_random.asp
-*
+
 
 ### Contributors:
 
