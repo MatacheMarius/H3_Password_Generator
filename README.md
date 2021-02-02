@@ -44,5 +44,5 @@ random and is displayed on the screen.
 * matachemarius92@gmail.com
 * [Matache Marius](https://github.com/MatacheMarius)
 ### Directory:
-* [Current Repository](https://github.com/MatacheMarius/H3_Password_Generato)
+* [Current Repository](https://github.com/MatacheMarius/H3_Password_Generator)
 * [Website](https://matachemarius.github.io/H3_Password_Generator/)
